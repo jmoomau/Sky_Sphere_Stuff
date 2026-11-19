@@ -47,7 +47,7 @@ def get_movie(date_folder, output_file, fps):
 
 input_folder = 'D:/2026-10-14'
 output_folder = 'D:/2026-10-14/2026-10-14.mp4'
-frames_per_second = 20
+frames_per_second = 24
 
 get_movie(input_folder, output_folder, frames_per_second)
 
